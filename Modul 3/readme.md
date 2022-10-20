@@ -32,7 +32,8 @@ LICENSE:[APACHE 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 - [gitignore](./gitignore.md)
 
-4. [Ветки в GIT]
+4. [Ветки в GIT](./branch.md)
+
 
 [Отправка изменений на удаленный репозиторий>](./push.md)
 
